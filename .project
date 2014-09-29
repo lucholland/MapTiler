@@ -20,5 +20,10 @@
 			<type>1</type>
 			<location>/home/clholla/workspace/MapTiler/img/chernarus-plus-very-high-res.jpg</location>
 		</link>
+		<link>
+			<name>img/test.jpg</name>
+			<type>1</type>
+			<location>/home/clholla/workspace/MapTiler/img/test.jpg</location>
+		</link>
 	</linkedResources>
 </projectDescription>
